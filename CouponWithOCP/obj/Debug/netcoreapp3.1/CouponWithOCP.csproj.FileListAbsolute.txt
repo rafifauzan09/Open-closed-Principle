@@ -1,0 +1,13 @@
+D:\SEMESTER III\ST122 - PEMROGRAMAN LANJUT\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.csprojAssemblyReference.cache
+D:\SEMESTER III\ST122 - PEMROGRAMAN LANJUT\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.AssemblyInfoInputs.cache
+D:\SEMESTER III\ST122 - PEMROGRAMAN LANJUT\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.AssemblyInfo.cs
+D:\SEMESTER III\ST122 - PEMROGRAMAN LANJUT\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.csproj.CoreCompileInputs.cache
+D:\SEMESTER III\ST122 - PEMROGRAMAN LANJUT\CouponWithOCP\bin\Debug\netcoreapp3.1\CouponWithOCP.exe
+D:\SEMESTER III\ST122 - PEMROGRAMAN LANJUT\CouponWithOCP\bin\Debug\netcoreapp3.1\CouponWithOCP.deps.json
+D:\SEMESTER III\ST122 - PEMROGRAMAN LANJUT\CouponWithOCP\bin\Debug\netcoreapp3.1\CouponWithOCP.runtimeconfig.json
+D:\SEMESTER III\ST122 - PEMROGRAMAN LANJUT\CouponWithOCP\bin\Debug\netcoreapp3.1\CouponWithOCP.runtimeconfig.dev.json
+D:\SEMESTER III\ST122 - PEMROGRAMAN LANJUT\CouponWithOCP\bin\Debug\netcoreapp3.1\CouponWithOCP.dll
+D:\SEMESTER III\ST122 - PEMROGRAMAN LANJUT\CouponWithOCP\bin\Debug\netcoreapp3.1\CouponWithOCP.pdb
+D:\SEMESTER III\ST122 - PEMROGRAMAN LANJUT\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.dll
+D:\SEMESTER III\ST122 - PEMROGRAMAN LANJUT\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.pdb
+D:\SEMESTER III\ST122 - PEMROGRAMAN LANJUT\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.genruntimeconfig.cache
